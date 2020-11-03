@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Search" skipped="0" tests="1" time="21.23" timestamp="2020-11-02 06:40:16"><testcase name="View product preview"><error message="Timed out after 5000 milliseconds: net.serenitybdd.core.pages.RenderedPageObjectView$$Lambda$296/18885681@182d777&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'PERSONAL', ip: '192.168.1.184', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_31'&#10;Driver info: driver.version: unknown&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'PERSONAL', ip: '192.168.1.184', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_31'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.TimeoutException">Timed out after 5000 milliseconds: net.serenitybdd.core.pages.RenderedPageObjectView$$Lambda$296/18885681@182d777
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PERSONAL', ip: '192.168.1.184', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PERSONAL', ip: '192.168.1.184', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: unknown</error><system-err>Timed out after 5000 milliseconds: net.serenitybdd.core.pages.RenderedPageObjectView$$Lambda$296/18885681@182d777
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PERSONAL', ip: '192.168.1.184', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PERSONAL', ip: '192.168.1.184', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: unknown&#13;
+Practice.pages.SearchPage.viewProductPreview(SearchPage.java:37)&#13;
+Practice.steps.SearchSteps.iViewTheProductPreview(SearchSteps.java:32)&#13;
+✽.I view the product preview(src/test/resources/features/search.feature:5)&#13;
+</system-err></testcase></testsuite>
